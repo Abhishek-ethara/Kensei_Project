@@ -1,0 +1,5 @@
+Id,Name,AccountType,AccountSubType,CurrentBalance,Active,Classification,Description
+1,Operating Checking,Bank,Checking,3680.25,true,Asset,First National Bank of Briscoe joint checking
+2,Equipment Emergency Fund,Bank,Savings,13150.00,true,Asset,Joint savings toward the 25000 equipment fund target
+3,Feed and Supplies,Expense,SuppliesMaterialsCogs,0.00,true,Expense,Hay feed mineral and ranch supplies
+4,Repair Income,Income,ServiceFeeIncome,0.00,true,Revenue,Side equipment repair cash income

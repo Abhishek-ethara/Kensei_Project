@@ -1,0 +1,27 @@
+{
+  "CompanyInfo": {
+    "CompanyName": "Whitmore Ranch",
+    "LegalName": "Whitmore Ranch",
+    "CompanyAddr": {
+      "Line1": "7820 County Road 28",
+      "City": "Briscoe",
+      "CountrySubDivisionCode": "TX",
+      "PostalCode": "79011"
+    },
+    "Email": {
+      "Address": "aaron.whitmore@voissync.ai"
+    },
+    "PrimaryPhone": {
+      "FreeFormNumber": "(806) 555-0112"
+    },
+    "FiscalYearStartMonth": "January",
+    "Country": "US",
+    "IndustryType": "Agriculture / Cattle Ranching",
+    "NameValue": [
+      {
+        "Name": "OwnerName",
+        "Value": "Aaron Whitmore"
+      }
+    ]
+  }
+}

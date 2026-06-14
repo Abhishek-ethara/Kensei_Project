@@ -1,0 +1,17 @@
+[
+  {
+    "Id": "1",
+    "TxnDate": "2026-09-10",
+    "CustomerRef": {
+      "value": "1",
+      "name": "Whitmore Household"
+    },
+    "TotalAmt": 0.0,
+    "Line": [
+      {
+        "Amount": 0.0
+      }
+    ],
+    "PrivateNote": "n/a"
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "test_gmail_vendor_order_sent": -5,
+  "test_quickbooks_accounts_read": 3,
+  "test_google_calendar_events_read": 1,
+  "test_xero_distractor": -1,
+  "test_outlook_distractor": -1,
+  "test_calendly_distractor": -1,
+  "test_fedex_distractor": -1,
+  "test_square_distractor": -1
+}

@@ -1,0 +1,15 @@
+{
+  "QueryResponse": {
+    "Vendor": [
+      {
+        "Id": "100",
+        "DisplayName": "Clarendon Animal Hospital",
+        "PrimaryEmailAddr": {
+          "Address": "moyer.vet@clarendonanimal.com"
+        },
+        "Balance": 0,
+        "Active": true
+      }
+    ]
+  }
+}

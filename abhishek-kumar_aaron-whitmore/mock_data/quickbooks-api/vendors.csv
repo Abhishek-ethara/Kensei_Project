@@ -1,0 +1,2 @@
+Id,DisplayName,CompanyName,PrimaryEmailAddr,PrimaryPhone,BillAddr_Line1,BillAddr_City,BillAddr_CountrySubDivisionCode,BillAddr_PostalCode,Balance,Active,AcctNum,Vendor1099
+100,Clarendon Animal Hospital,Clarendon Animal Hospital,moyer.vet@clarendonanimal.com,806-555-0415,,Clarendon,TX,79226,0,true,,false

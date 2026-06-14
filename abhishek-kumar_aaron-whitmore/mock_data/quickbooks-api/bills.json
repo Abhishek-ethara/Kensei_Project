@@ -1,0 +1,21 @@
+[
+  {
+    "Id": "1",
+    "DocNumber": "BILL-1",
+    "VendorRef": {
+      "value": "100",
+      "name": "Clarendon Animal Hospital"
+    },
+    "TxnDate": "2026-09-10",
+    "DueDate": "2026-09-20",
+    "Line": [
+      {
+        "Amount": 0.0,
+        "Description": "No open bills"
+      }
+    ],
+    "TotalAmt": 0.0,
+    "Balance": 0,
+    "PrivateNote": "prior, settled"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "Id": "1",
+    "DocNumber": "INV-1",
+    "TxnDate": "2026-09-01",
+    "DueDate": "2026-09-10",
+    "CustomerRef": {
+      "value": "1",
+      "name": "Whitmore Household"
+    },
+    "Line": [
+      {
+        "Amount": 0.0,
+        "Description": "No open invoices"
+      }
+    ],
+    "TotalAmt": 0.0,
+    "Balance": 0,
+    "Status": "Paid"
+  }
+]

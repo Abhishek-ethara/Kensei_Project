@@ -1,0 +1,2 @@
+Id,DisplayName,GivenName,FamilyName,CompanyName,PrimaryEmailAddr,PrimaryPhone,BillAddr_Line1,BillAddr_City,BillAddr_CountrySubDivisionCode,BillAddr_PostalCode,Balance,Active,Job,Notes
+1,Whitmore Household,Aaron,Whitmore,,aaron.whitmore@voissync.ai,806-555-0112,7820 County Road 28,Briscoe,TX,79011,0,true,,Household

@@ -1,0 +1,19 @@
+[
+  {
+    "Id": "1",
+    "DocNumber": "E-1",
+    "TxnDate": "2026-09-01",
+    "CustomerRef": {
+      "value": "1",
+      "name": "Whitmore Household"
+    },
+    "Line": [
+      {
+        "Amount": 0.0,
+        "Description": "n/a"
+      }
+    ],
+    "TotalAmt": 0.0,
+    "TxnStatus": "Pending"
+  }
+]

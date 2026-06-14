@@ -1,0 +1,42 @@
+{
+  "QueryResponse": {
+    "Account": [
+      {
+        "Id": "1",
+        "Name": "Operating Checking",
+        "AccountType": "Bank",
+        "AccountSubType": "Checking",
+        "CurrentBalance": 3680.25,
+        "Active": true,
+        "Description": "First National Bank of Briscoe joint checking"
+      },
+      {
+        "Id": "2",
+        "Name": "Equipment Emergency Fund",
+        "AccountType": "Bank",
+        "AccountSubType": "Savings",
+        "CurrentBalance": 13150.0,
+        "Active": true,
+        "Description": "Joint savings toward the 25000 equipment fund target"
+      },
+      {
+        "Id": "3",
+        "Name": "Feed and Supplies",
+        "AccountType": "Expense",
+        "AccountSubType": "SuppliesMaterialsCogs",
+        "CurrentBalance": 0.0,
+        "Active": true,
+        "Description": "Hay feed mineral and ranch supplies"
+      },
+      {
+        "Id": "4",
+        "Name": "Repair Income",
+        "AccountType": "Income",
+        "AccountSubType": "ServiceFeeIncome",
+        "CurrentBalance": 0.0,
+        "Active": true,
+        "Description": "Side equipment repair cash income"
+      }
+    ]
+  }
+}

@@ -1,0 +1,2 @@
+Id,Name,Description,Type,UnitPrice,IncomeAccountRef_value,IncomeAccountRef_name,Active,Taxable
+1,Repair Labor,Equipment repair labor,Service,0.00,4,Repair Income,true,false
